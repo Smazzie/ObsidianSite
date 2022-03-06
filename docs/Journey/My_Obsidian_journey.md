@@ -1,5 +1,3 @@
-Public Google Doc on the journey: [Obsidian journey](https://docs.google.com/document/d/e/2PACX-1vR873qpZtsWIQSYDXGVa2pGUt1T3rztqLavPFdTmvUhGRNyjOYO74K6M19_W0h5vkhJCRrV81x-41bz/pub)
-
 Started immediately with the daily notes
 
 Looked into the three types of templates : [[Literature notes (notes on the reference itself)]] [[Permanent notes (summaries of thoughts)]] [[Reference notes]]
