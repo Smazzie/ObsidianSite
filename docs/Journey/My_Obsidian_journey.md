@@ -30,7 +30,12 @@ Obsidian Sync was doing this weird thing where it was doubling my Daily Notes. N
 
 Finally deleted my Google docs shortcuts from my bookmark bar for my work journal, junk journal, and work junk journal. 
 
-# Excalidraw
+# Git push
+Used [GitHub - jobindj/obsidian-publish-mkdocs: A Template to Publish Obsidian/Foam Notes on Github Pages (uses MkDocs)](https://github.com/jobindj/obsidian-publish-mkdocs) to publish to a Git page. 
+
+[My Obsidian journey - obsidian-mkdocs template](https://smazzie.github.io/ObsidianSite/Journey/My_Obsidian_journey/)
+
+
 
 
 
